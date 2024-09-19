@@ -83,15 +83,15 @@ We explored different classification models to predict launch outcomes. Our proc
 
 1. **Data Preprocessing**:
 
-   - Standardization of features (payload mass, booster version, etc.).
-   - Train-test split (80%-20%) to validate model performance.
+   → Standardization of features (payload mass, booster version, etc.).
+   → Train-test split (80%-20%) to validate model performance.
 
 2. **Model Development**:
 
-   - **Support Vector Machines (SVM)**
-   - **Decision Trees**
-   - **Logistic Regression**
-   - **K Nearest Neighbors (KNN)**
+   → **Support Vector Machines (SVM)**
+   → **Decision Trees**
+   → **Logistic Regression**
+   → **K Nearest Neighbors (KNN)**
 
 3. **Hyperparameter Tuning**:  
    We performed a grid search over key parameters for each model to ensure optimal performance.
@@ -115,7 +115,7 @@ We explored different classification models to predict launch outcomes. Our proc
 ---
 
 ## 📌 **Conclusion** <a name="conclusion"></a>
-
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/70.png)
 This project successfully demonstrates how exploratory data analysis and machine learning techniques can be used to extract valuable insights from complex datasets and predict future outcomes. By focusing on key features such as **launch sites**, **payload mass**, and **booster versions**, the machine learning models were able to accurately predict the success of SpaceX launches, providing actionable insights for future missions.
 
 ---
