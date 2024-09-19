@@ -91,6 +91,7 @@ We explored different classification models to predict launch outcomes. Our proc
    - **Support Vector Machines (SVM)**
    - **Decision Trees**
    - **Logistic Regression**
+   - **K Nearest Neighbors (KNN)**
 
 3. **Hyperparameter Tuning**:  
    We performed a grid search over key parameters for each model to ensure optimal performance.
@@ -102,13 +103,14 @@ We explored different classification models to predict launch outcomes. Our proc
 
 ## 📊 **Model Performance** <a name="performance"></a>
 
-| Model                        | Accuracy | Precision | Recall | F1-Score |
-| ---------------------------- | -------- | --------- | ------ | -------- |
-| Support Vector Machine (SVM) | 85.6%    | 88.0%     | 86.3%  | 87.1%    |
-| Decision Tree                | 82.3%    | 85.1%     | 83.9%  | 84.0%    |
-| Logistic Regression          | 80.9%    | 83.5%     | 81.4%  | 82.0%    |
+| Model                        | Accuracy | 
+| ---------------------------- | -------- | 
+| Support Vector Machine (SVM) | 0.848214   | 
+| Decision Tree                | 0.876786   | 
+| Logistic Regression          | 0.846429   | 
+| K Nearest Neighbors (KNN)          | 0.848214   | 
 
-**Best Performing Model**: **SVM** with **85.6% accuracy**, providing the most consistent and reliable predictions for launch success.
+**Best Performing Model**: **Decision Tree** with **0.876786 accuracy**, providing the most consistent and reliable predictions for launch success.
 
 ---
 
