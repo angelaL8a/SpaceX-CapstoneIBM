@@ -52,7 +52,12 @@ In this project, we:
 
 ---
 
-## 🔍 **Exploratory Data Analysis (EDA) & Insights** <a name="eda"></a>
+## 🔍 **Exploratory Data Analysis (EDA) & Insights** <a name="eda"></a>  
+
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/27.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/36.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/50.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/64.png)
 
 ### Key Insights:
 
@@ -62,8 +67,6 @@ In this project, we:
 - **Most Reliable Booster Version**: 🔧 **FT version** has demonstrated the highest reliability.
 
 EDA was performed using **Pandas**, **Matplotlib**, and **Seaborn** to visualize these insights. Additionally, we created interactive dashboards using **Plotly** and **Dash** to dynamically explore the data.
-
-![Launch Success](https://yourimageurl.com/success_chart.png)
 
 ---
 
