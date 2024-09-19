@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/1.png" rel="noopener">
- <img src="https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/1.png" alt="Project Logo" width="400"></a>
+ <img src="https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/1.png" alt="Project Logo" width="100%"></a>
 </p>
 
 # 🚀 SpaceX Launch Success Prediction Project
