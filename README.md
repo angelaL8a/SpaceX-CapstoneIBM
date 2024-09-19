@@ -158,6 +158,8 @@ For more information or collaboration, feel free to reach out:
 
 #### © 2024 [Angela Paola](https://github.com/angelaL8a) All Rights Reserved
 
-<p align="center">
-  <img src="https://yourimageurl.com/final_logo.png" alt="Final Logo" width="120">
-</p>
+## 🌟 Project Presentation
+
+[![Canva Presentation](https://www.canva.com/design/DAGP7kTe7Fw/usmeqLchwJYjXjfV1C_CGQ/view?utm_content=DAGP7kTe7Fw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://www.canva.com/design/DAGP7kTe7Fw/usmeqLchwJYjXjfV1C_CGQ/view?utm_content=DAGP7kTe7Fw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
+Click the image to view the full presentation on Canva.
