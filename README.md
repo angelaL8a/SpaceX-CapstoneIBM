@@ -39,6 +39,13 @@ In this project, we:
 - Apply predictive models like **SVM**, **Logistic Regression**, and **Decision Trees** for launch outcome predictions.
 - Tune hyperparameters for optimized performance.
 
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/9.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/13.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/16.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/19.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/22.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/25.png)
+
 ---
 
 ## 📂 **Project Structure** <a name="structure"></a>
