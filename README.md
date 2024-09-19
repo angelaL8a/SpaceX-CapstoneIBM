@@ -164,5 +164,3 @@ For more information or collaboration, feel free to reach out:
 
 
 Click the image to view the full presentation on Canva.  
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="debdb6d4-fb12-46a9-a52d-fb3a12b2ff91" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
