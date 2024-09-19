@@ -133,12 +133,12 @@ This project successfully demonstrates how exploratory data analysis and machine
 
 For more information or collaboration, feel free to reach out:
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<https://www.linkedin.com/in/[yourprofile](https://www.linkedin.com/in/isonoangelapaola/)/>)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isonoangelapaola/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelaL8a/)
 
 ---
 
-#### © 2024 [Your Name](https://github.com/angelaL8a) All Rights Reserved
+#### © 2024 [Angela Paola](https://github.com/angelaL8a) All Rights Reserved
 
 <p align="center">
   <img src="https://yourimageurl.com/final_logo.png" alt="Final Logo" width="120">
