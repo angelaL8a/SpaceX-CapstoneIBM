@@ -83,21 +83,21 @@ We explored different classification models to predict launch outcomes. Our proc
 
 1. **Data Preprocessing**:
 
-   → Standardization of features (payload mass, booster version, etc.).
-   → Train-test split (80%-20%) to validate model performance.
+   → Standardization of features (payload mass, booster version, etc.).  
+   → Train-test split (80%-20%) to validate model performance.  
 
 2. **Model Development**:
 
-   → **Support Vector Machines (SVM)**
-   → **Decision Trees**
-   → **Logistic Regression**
-   → **K Nearest Neighbors (KNN)**
+   → **Support Vector Machines (SVM)**  
+   → **Decision Trees**  
+   → **Logistic Regression**  
+   → **K Nearest Neighbors (KNN)**  
 
 3. **Hyperparameter Tuning**:  
    We performed a grid search over key parameters for each model to ensure optimal performance.
 
 4. **Evaluation**:  
-   Models were evaluated using **accuracy**, **precision**, **recall**, and **F1-score** on the test set. Cross-validation was employed to mitigate overfitting.
+   Models were evaluated using **accuracy** on the train set. Cross-validation was employed to mitigate overfitting.
 
 ---
 
