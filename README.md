@@ -163,4 +163,6 @@ For more information or collaboration, feel free to reach out:
 [![Canva Presentation](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/logo.png)](https://www.canva.com/design/DAGP7kTe7Fw/usmeqLchwJYjXjfV1C_CGQ/view?utm_content=DAGP7kTe7Fw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 
-Click the image to view the full presentation on Canva.
+Click the image to view the full presentation on Canva.  
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="debdb6d4-fb12-46a9-a52d-fb3a12b2ff91" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
