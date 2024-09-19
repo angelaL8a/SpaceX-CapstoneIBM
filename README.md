@@ -131,6 +131,22 @@ This project successfully demonstrates how exploratory data analysis and machine
 
 ---
 
+## 📘 Extra Study Materials <a name="extra_study"></a>
+
+Before diving into the labs, it’s highly recommended to review previous concepts and practice them locally on your machine. This not only enhances understanding but also helps reduce the usage of cloud trial versions.
+
+### 📊 Visualization Libraries
+- **[Plotly](https://dash.plotly.com/layout)** - A versatile and powerful library for creating interactive visualizations.
+- **[Folium](https://python-visualization.github.io/folium/plugins.html)** - Visualize geographical data with ease through interactive maps.
+
+### 🌍 Folium Example Projects
+- **[Folium Examples](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/)** - Explore practical examples of Folium in action for inspiration and guidance.
+
+### 🤖 Data Science Concepts
+- **[Confusion Matrix](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)** - Master the basics of classification evaluation with this simple guide to confusion matrices.
+
+---
+
 ## ✉️ **Contact** <a name="contact"></a>
 
 For more information or collaboration, feel free to reach out:
