@@ -39,12 +39,12 @@ In this project, we:
 - Apply predictive models like **SVM**, **Logistic Regression**, and **Decision Trees** for launch outcome predictions.
 - Tune hyperparameters for optimized performance.
 
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/9.png)
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/13.png)
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/16.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/9.gif)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/13.gif)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/16.gif)
 ![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/19.png)
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/22.png)
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/25.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/22.gif)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/25.gif)
 
 ---
 
@@ -61,10 +61,10 @@ In this project, we:
 
 ## 🔍 **Exploratory Data Analysis (EDA) & Insights** <a name="eda"></a>  
 
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/27.png)
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/36.png)
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/50.png)
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/64.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/27.gif)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/36.gif)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/50.gif)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/64.gif)
 
 ### Key Insights:
 
@@ -115,7 +115,7 @@ We explored different classification models to predict launch outcomes. Our proc
 ---
 
 ## 📌 **Conclusion** <a name="conclusion"></a>
-![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/70.png)
+![Launch Success](https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/70.gif)
 This project successfully demonstrates how exploratory data analysis and machine learning techniques can be used to extract valuable insights from complex datasets and predict future outcomes. By focusing on key features such as **launch sites**, **payload mass**, and **booster versions**, the machine learning models were able to accurately predict the success of SpaceX launches, providing actionable insights for future missions.
 
 ---
