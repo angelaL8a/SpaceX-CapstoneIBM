@@ -7,8 +7,8 @@
 [![Total Downloads](https://img.shields.io/github/downloads/angelaL8a/SpaceX-CapstoneIBM/total.svg)](https://github.com/angelaL8a/SpaceX-CapstoneIBM/releases/)
 
 <p align="center">
-  <a href="https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/1.png" rel="noopener">
- <img src="https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/1.png" alt="Project Logo" width="100%"></a>
+  <a href="https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/1.gif" rel="noopener">
+ <img src="https://github.com/angelaL8a/SpaceX-CapstoneIBM/blob/main/images/1.gif" alt="Project Logo" width="100%"></a>
 </p>
 
 # 🚀 SpaceX Launch Success Prediction Project
